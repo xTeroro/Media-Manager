@@ -1,0 +1,3 @@
+Most Errors will be caused by either a missing current directory or corrupted settings.
+In case of a missing current directory either create it or change the settings inside the app
+In case of corrupted settings you can delete the settings.json to default them
